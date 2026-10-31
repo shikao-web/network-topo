@@ -39,3 +39,11 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 4. hello.pyを実行して動作確認する
+
+
+## 3. 実行手順
+1. 環境構築まで終わった状態で`.venv`環境を用いて、プロジェクトルートから以下のコマンドを実行する。
+```
+python src/app.py
+```
+2. ターミナルで指定されたURLにアクセスする。
