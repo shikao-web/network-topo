@@ -1,10 +1,10 @@
-# 00_Python_TEMP_1
+# network-topo
 
 ## 1. 環境構築手順（Windows | PowerShell）
 1. 適当なディレクトリで以下のコマンドを実行する。
 ```bash
-git clone https://github.com/shikao-web/{repo-name}
-cd ./{repo-name}
+git clone https://github.com/shikao-web/network-topo
+cd ./network-topo
 ```
 
 2. 以下のコマンドで仮想環境を作成する
@@ -24,8 +24,8 @@ pip install -r requirements.txt
 ## 2. 環境構築手順（Ubuntu）
 1. 適当なディレクトリで以下のコマンドを実行する。
 ```bash
-git clone https://github.com/shikao-web/{repo-name}
-cd ./{repo-name}
+git clone https://github.com/shikao-web/network-topo
+cd ./network-topo
 ```
 
 2. 以下のコマンドで仮想環境を作成する
